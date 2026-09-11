@@ -1960,15 +1960,15 @@
         <band_optimizer frequency="1313" gain_left="19" gain_right="-8"/>
         <band_optimizer frequency="1688" gain_left="-9" gain_right="-9"/>
         <band_optimizer frequency="2250" gain_left="-1" gain_right="8"/>
-        <band_optimizer frequency="3000" gain_left="-57" gain_right="-19"/>
-        <band_optimizer frequency="3750" gain_left="-59" gain_right="-70"/>
-        <band_optimizer frequency="4688" gain_left="-73" gain_right="-51"/>
-        <band_optimizer frequency="5813" gain_left="-51" gain_right="-41"/>
-        <band_optimizer frequency="7125" gain_left="-51" gain_right="-67"/>
-        <band_optimizer frequency="9000" gain_left="-51" gain_right="-41"/>
-        <band_optimizer frequency="11250" gain_left="-51" gain_right="-75"/>
-        <band_optimizer frequency="13875" gain_left="-22" gain_right="-4"/>
-        <band_optimizer frequency="19688" gain_left="-46" gain_right="0"/>
+        <band_optimizer frequency="3000" gain_left="0" gain_right="-19"/>
+        <band_optimizer frequency="3750" gain_left="0" gain_right="-53"/>
+        <band_optimizer frequency="4688" gain_left="0" gain_right="-26"/>
+        <band_optimizer frequency="5813" gain_left="-53" gain_right="-39"/>
+        <band_optimizer frequency="7125" gain_left="-51" gain_right="-25"/>
+        <band_optimizer frequency="9000" gain_left="-51" gain_right="-10"/>
+        <band_optimizer frequency="11250" gain_left="-40" gain_right="-21"/>
+        <band_optimizer frequency="13875" gain_left="-7" gain_right="0"/>
+        <band_optimizer frequency="19688" gain_left="-7" gain_right="0"/>
       </audio-optimizer-bands>
       <regulator-tuning>
         <band_regulator frequency="47" threshold_low="-192" threshold_high="0" isolated_band="false" />
