@@ -41,6 +41,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/c2s/proprietary/vendor/firmware/setfile_3m5.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_3m5.bin \
     vendor/samsung/c2s/proprietary/vendor/firmware/setfile_hm1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_hm1.bin \
     vendor/samsung/c2s/proprietary/vendor/firmware/txse1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/txse1.bin \
+    vendor/samsung/c2s/proprietary/vendor/firmware/uwb/libsr100t_dev_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/uwb/libsr100t_dev_fw.bin \
+    vendor/samsung/c2s/proprietary/vendor/firmware/uwb/libsr100t_prod_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/uwb/libsr100t_prod_fw.bin \
     vendor/samsung/c2s/proprietary/vendor/firmware/vts.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vts.bin \
     vendor/samsung/c2s/proprietary/vendor/tee/00000000-0000-0000-0000-000000010081:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-000000010081 \
     vendor/samsung/c2s/proprietary/vendor/tee/00000000-0000-0000-0000-000000534b4d:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-000000534b4d \
